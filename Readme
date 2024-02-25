@@ -1,0 +1,10 @@
+Preparation of dataset from SAP ERP system
+Scaling and cleaning the dataset
+EDA
+Clustering using RFM, FMD+R, and FM techniques
+Comparison of all three clustering techniques and selection of the most efficient for next step.
+Data modeling 
+Creating recommendation engines using the Turicreate library 
+Input statistical clusters to various recommenders
+Apply KMeans to find objective customer clusters 
+Compare results between objective and statistical cluster input recommenders and draw conclusions
